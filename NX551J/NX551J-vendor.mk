@@ -99,6 +99,20 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/NX551J/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
     vendor/nubia/NX551J/proprietary/etc/firmware/qtc800s.bin:system/etc/firmware/qtc800s.bin \
     vendor/nubia/NX551J/proprietary/etc/firmware/qtc800s.cfg:system/etc/firmware/qtc800s.cfg \
+    vendor/nubia/NX551J/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
+	vendor/nubia/NX551J/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
+	vendor/nubia/NX551J/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
+	vendor/nubia/NX551J/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
+	vendor/nubia/NX551J/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
+	vendor/nubia/NX551J/proprietary/etc/firmware/a330_pfp.fw:system/etc/firmware/a330_pfp.fw \
+	vendor/nubia/NX551J/proprietary/etc/firmware/a330_pm4.fw:system/etc/firmware/a330_pm4.fw \
+	vendor/nubia/NX551J/proprietary/etc/firmware/a420_pfp.fw:system/etc/firmware/a420_pfp.fw \
+	vendor/nubia/NX551J/proprietary/etc/firmware/a420_pm4.fw:system/etc/firmware/a420_pm4.fw \
+	vendor/nubia/NX551J/proprietary/etc/firmware/miniBoot.bin:system/etc/firmware/miniBoot.bin \
+	vendor/nubia/NX551J/proprietary/etc/firmware/nubia_tp_1302_jdi_fw.img:system/etc/firmware/nubia_tp_1302_jdi_fw.img \
+	vendor/nubia/NX551J/proprietary/etc/firmware/SCTable.asb:system/etc/firmware/SCTable.asb \
+	vendor/nubia/NX551J/proprietary/etc/firmware/tas2555_uCDSP.bin:system/etc/firmware/tas2555_uCDSP.bin \
+	vendor/nubia/NX551J/proprietary/etc/firmware/TBM_D2.bin:system/etc/firmware/TBM_D2.bin \
     vendor/nubia/NX551J/proprietary/etc/flp.conf:system/etc/flp.conf \
     vendor/nubia/NX551J/proprietary/etc/gps.conf:system/etc/gps.conf \
     vendor/nubia/NX551J/proprietary/etc/hostapd/hostapd.accept:system/etc/hostapd/hostapd.accept \
