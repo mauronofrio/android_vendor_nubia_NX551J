@@ -99,22 +99,50 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/NX551J/proprietary/etc/data/qmi_config.xml:system/etc/data/qmi_config.xml \
     vendor/nubia/NX551J/proprietary/etc/dpm/dpm.conf:system/etc/dpm/dpm.conf \
     vendor/nubia/NX551J/proprietary/etc/dpm/nsrm/NsrmConfiguration.xml:system/etc/dpm/nsrm/NsrmConfiguration.xml \
-    vendor/nubia/NX551J/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
-    vendor/nubia/NX551J/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
-    vendor/nubia/NX551J/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
-    vendor/nubia/NX551J/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
-    vendor/nubia/NX551J/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
-    vendor/nubia/NX551J/proprietary/etc/firmware/a330_pfp.fw:system/etc/firmware/a330_pfp.fw \
-    vendor/nubia/NX551J/proprietary/etc/firmware/a330_pm4.fw:system/etc/firmware/a330_pm4.fw \
-    vendor/nubia/NX551J/proprietary/etc/firmware/a420_pfp.fw:system/etc/firmware/a420_pfp.fw \
-    vendor/nubia/NX551J/proprietary/etc/firmware/a420_pm4.fw:system/etc/firmware/a420_pm4.fw \
+    vendor/nubia/NX551J/proprietary/etc/firmware/a506_zap.b00:system/etc/firmware/a506_zap.b00 \
+    vendor/nubia/NX551J/proprietary/etc/firmware/a506_zap.b01:system/etc/firmware/a506_zap.b01 \
+    vendor/nubia/NX551J/proprietary/etc/firmware/a506_zap.b02:system/etc/firmware/a506_zap.b02 \
+    vendor/nubia/NX551J/proprietary/etc/firmware/a506_zap.elf:system/etc/firmware/a506_zap.elf \
+    vendor/nubia/NX551J/proprietary/etc/firmware/a506_zap.mdt:system/etc/firmware/a506_zap.mdt \
+    vendor/nubia/NX551J/proprietary/etc/firmware/a530_gpmu.fw2:system/etc/firmware/a530_gpmu.fw2 \
+    vendor/nubia/NX551J/proprietary/etc/firmware/a530_pfp.fw:system/etc/firmware/a530_pfp.fw \
+    vendor/nubia/NX551J/proprietary/etc/firmware/a530_pm4.fw:system/etc/firmware/a530_pm4.fw \
+    vendor/nubia/NX551J/proprietary/etc/firmware/a530v1_pfp.fw:system/etc/firmware/a530v1_pfp.fw \
+    vendor/nubia/NX551J/proprietary/etc/firmware/a530v1_pm4.fw:system/etc/firmware/a530v1_pm4.fw \
+    vendor/nubia/NX551J/proprietary/etc/firmware/a530v2_seq.fw2:system/etc/firmware/a530v2_seq.fw2 \
+    vendor/nubia/NX551J/proprietary/etc/firmware/a530v3_gpmu.fw2:system/etc/firmware/a530v3_gpmu.fw2 \
+    vendor/nubia/NX551J/proprietary/etc/firmware/a530v3_seq.fw2:system/etc/firmware/a530v3_seq.fw2 \
+    vendor/nubia/NX551J/proprietary/etc/firmware/cpp_firmware_v1_10_0.fw:system/etc/firmware/cpp_firmware_v1_10_0.fw \
+    vendor/nubia/NX551J/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
+    vendor/nubia/NX551J/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
+    vendor/nubia/NX551J/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
+    vendor/nubia/NX551J/proprietary/etc/firmware/cpp_firmware_v1_4_0.fw:system/etc/firmware/cpp_firmware_v1_4_0.fw \
+    vendor/nubia/NX551J/proprietary/etc/firmware/cpp_firmware_v1_5_0.fw:system/etc/firmware/cpp_firmware_v1_5_0.fw \
+    vendor/nubia/NX551J/proprietary/etc/firmware/cpp_firmware_v1_5_2.fw:system/etc/firmware/cpp_firmware_v1_5_2.fw \
+    vendor/nubia/NX551J/proprietary/etc/firmware/cpp_firmware_v1_6_0.fw:system/etc/firmware/cpp_firmware_v1_6_0.fw \
+    vendor/nubia/NX551J/proprietary/etc/firmware/cpp_firmware_v1_8_0.fw:system/etc/firmware/cpp_firmware_v1_8_0.fw \
+    vendor/nubia/NX551J/proprietary/etc/firmware/DE.o.msm8953:system/etc/firmware/DE.o.msm8953 \
     vendor/nubia/NX551J/proprietary/etc/firmware/hbtp/hbtpcfg.dat:system/etc/firmware/hbtp/hbtpcfg.dat \
     vendor/nubia/NX551J/proprietary/etc/firmware/hbtp/qtc800s_dsp.bin:system/etc/firmware/hbtp/qtc800s_dsp.bin \
-    vendor/nubia/NX551J/proprietary/etc/firmware/miniBoot.bin:system/etc/firmware/miniBoot.bin \
-    vendor/nubia/NX551J/proprietary/etc/firmware/nubia_tp_1302_jdi_fw.img:system/etc/firmware/nubia_tp_1302_jdi_fw.img \
-    vendor/nubia/NX551J/proprietary/etc/firmware/SCTable.asb:system/etc/firmware/SCTable.asb \
-    vendor/nubia/NX551J/proprietary/etc/firmware/tas2555_uCDSP.bin:system/etc/firmware/tas2555_uCDSP.bin \
-    vendor/nubia/NX551J/proprietary/etc/firmware/TBM_D2.bin:system/etc/firmware/TBM_D2.bin \
+    vendor/nubia/NX551J/proprietary/etc/firmware/ice40.bin:system/etc/firmware/ice40.bin \
+    vendor/nubia/NX551J/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
+    vendor/nubia/NX551J/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
+    vendor/nubia/NX551J/proprietary/etc/firmware/qtc800s.bin:system/etc/firmware/qtc800s.bin \
+    vendor/nubia/NX551J/proprietary/etc/firmware/qtc800s.cfg:system/etc/firmware/qtc800s.cfg \
+    vendor/nubia/NX551J/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
+	vendor/nubia/NX551J/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
+	vendor/nubia/NX551J/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
+	vendor/nubia/NX551J/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
+	vendor/nubia/NX551J/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
+	vendor/nubia/NX551J/proprietary/etc/firmware/a330_pfp.fw:system/etc/firmware/a330_pfp.fw \
+	vendor/nubia/NX551J/proprietary/etc/firmware/a330_pm4.fw:system/etc/firmware/a330_pm4.fw \
+	vendor/nubia/NX551J/proprietary/etc/firmware/a420_pfp.fw:system/etc/firmware/a420_pfp.fw \
+	vendor/nubia/NX551J/proprietary/etc/firmware/a420_pm4.fw:system/etc/firmware/a420_pm4.fw \
+	vendor/nubia/NX551J/proprietary/etc/firmware/miniBoot.bin:system/etc/firmware/miniBoot.bin \
+	vendor/nubia/NX551J/proprietary/etc/firmware/nubia_tp_1302_jdi_fw.img:system/etc/firmware/nubia_tp_1302_jdi_fw.img \
+	vendor/nubia/NX551J/proprietary/etc/firmware/SCTable.asb:system/etc/firmware/SCTable.asb \
+	vendor/nubia/NX551J/proprietary/etc/firmware/tas2555_uCDSP.bin:system/etc/firmware/tas2555_uCDSP.bin \
+	vendor/nubia/NX551J/proprietary/etc/firmware/TBM_D2.bin:system/etc/firmware/TBM_D2.bin \
     vendor/nubia/NX551J/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
     vendor/nubia/NX551J/proprietary/etc/flp.conf:system/etc/flp.conf \
     vendor/nubia/NX551J/proprietary/etc/gps.conf:system/etc/gps.conf \
