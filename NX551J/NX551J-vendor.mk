@@ -1960,6 +1960,16 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/NX551J/proprietary/vendor/qcril.db:system/vendor/qcril.db \
 	vendor/nubia/NX551J/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
 	vendor/nubia/NX551J/proprietary/lib/libalColorMono.so:system/lib/libalColorMono.so \
+	vendor/nubia/NX551J/proprietary/lib/libNubiaImageAlgorithmBSP.so:system/lib/libNubiaImageAlgorithmBSP.so \
+	vendor/nubia/NX551J/proprietary/lib64/libNubiaImageAlgorithmBSP.so:system/lib64/libNubiaImageAlgorithmBSP.so \
+	vendor/nubia/NX551J/proprietary/lib/libalParseOTP.so:system/lib/libalParseOTP.so \
+	vendor/nubia/NX551J/proprietary/lib64/libalParseOTP.so:system/lib64/libalParseOTP.so \
+	vendor/nubia/NX551J/proprietary/lib/libalRnB.so:system/lib/libalRnB.so \
+	vendor/nubia/NX551J/proprietary/lib64/libalRnB.so:system/lib64/libalRnB.so \
+	vendor/nubia/NX551J/proprietary/lib/libalSDE2.so:system/lib/libalSDE2.so \
+	vendor/nubia/NX551J/proprietary/lib64/libalSDE2.so:system/lib64/libalSDE2.so \
+	vendor/nubia/NX551J/proprietary/lib/libNubiaImageAlgorithmBSP.so:system/lib/libNubiaImageAlgorithmBSP.so \
+	vendor/nubia/NX551J/proprietary/lib64/libNubiaImageAlgorithmBSP.so:system/lib64/libNubiaImageAlgorithmBSP.so \
 	vendor/nubia/NX551J/proprietary/lib/libalSDK.so:system/lib/libalSDK.so
 	
 PRODUCT_PACKAGES += \
