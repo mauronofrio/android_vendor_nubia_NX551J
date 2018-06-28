@@ -1929,9 +1929,9 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/NX551J/proprietary/vendor/lib/test_suite_no_sensor.so:system/vendor/lib/test_suite_no_sensor.so \
     vendor/nubia/NX551J/proprietary/vendor/lib/test_suite_pproc.so:system/vendor/lib/test_suite_pproc.so \
     vendor/nubia/NX551J/proprietary/vendor/lib/test_suite_vfe.so:system/vendor/lib/test_suite_vfe.so \
-    vendor/nubia/NX551J/proprietary/vendor/qcril.db:system/vendor/qcril.db
-	vendor/nubia/NX551J/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat
-	vendor/nubia/NX551J/proprietary/lib/libalColorMono.so:system/lib/libalColorMono.so
+    vendor/nubia/NX551J/proprietary/vendor/qcril.db:system/vendor/qcril.db \
+	vendor/nubia/NX551J/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
+	vendor/nubia/NX551J/proprietary/lib/libalColorMono.so:system/lib/libalColorMono.so \
 	vendor/nubia/NX551J/proprietary/lib/libalSDK.so:system/lib/libalSDK.so
 	
 PRODUCT_PACKAGES += \
