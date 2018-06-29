@@ -1970,6 +1970,8 @@ PRODUCT_COPY_FILES += \
 	vendor/nubia/NX551J/proprietary/lib64/libalSDE2.so:system/lib64/libalSDE2.so \
 	vendor/nubia/NX551J/proprietary/lib/libNubiaImageAlgorithmBSP.so:system/lib/libNubiaImageAlgorithmBSP.so \
 	vendor/nubia/NX551J/proprietary/lib64/libNubiaImageAlgorithmBSP.so:system/lib64/libNubiaImageAlgorithmBSP.so \
+	vendor/nubia/NX551J/proprietary/lib/libalSPE.so:system/lib/libalSPE.so \
+	vendor/nubia/NX551J/proprietary/lib64/libalSPE.so:system/lib64/libalSPE.so \
 	vendor/nubia/NX551J/proprietary/lib/libalSDK.so:system/lib/libalSDK.so
 	
 PRODUCT_PACKAGES += \
